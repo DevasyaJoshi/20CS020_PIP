@@ -5,7 +5,7 @@
 
 
 #20CS020 Devasya Joshi 
-
+print('Prepared by 20CS020 Devasya Joshi')
 #Dictionary
 #a. Write a python script to check whether a given key already exists in a dictionary
 Dict = {'Mon':1,'Tue':2,'Wed':3,'Thu':4}
