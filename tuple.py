@@ -9,7 +9,7 @@ print('Prepard by 20CS020 Devasya Joshi')
 
 #Tuple
     #a. Write a Python program to create a tuple with different data types.
-my_tuple = (1, 5.5, "20CS009")
+my_tuple = (1, 5.5, "20CS020")
 print(my_tuple)
 
     #b. Write a Python program to create a tuple with numbers and print one item.
